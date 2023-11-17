@@ -16,3 +16,7 @@ Hello there, <mark>Information shown are not correct</mark>.
 
 ## Current Country 
 -Unknown
+
+### Click me to go to anywhere
+- [About](about.md)
+- [Main](README.md)
