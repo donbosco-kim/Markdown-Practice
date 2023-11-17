@@ -1,5 +1,6 @@
 # Donbosco's Profile
-<mark>Information shown are not correct</mark>
+Hello there, <mark>Information shown are not correct</mark>.
+
 ## Name
 - Donbosco Kim
 
